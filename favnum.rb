@@ -21,7 +21,7 @@ elsif response == 'no'
 puts 
 puts 'DAMN! I thought it was an excellent number'
 puts 
-elsif response != 'no' or response != 'yes'
+else response != 'no' or response != 'yes'
 puts 
 puts 'Whatever'
 puts 
